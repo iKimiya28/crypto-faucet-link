@@ -1,5 +1,5 @@
 # crypto faucet link's 
-## Networks
+## Networks - از لیست شبکه های زیر شبکه ای که روش فاست نیاز دارید را انتخاب کنید و روش کلیک کنید
 
 - [Etherspot](#etherspot)
 - [MultiFaucet](#multifaucet)
