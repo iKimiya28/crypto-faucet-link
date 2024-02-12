@@ -28,7 +28,7 @@
 ### Etherspot testnet PoA
 
 Etherspot is a multi-chain non-custodial Smart Wallet platform that allows you to access the best features (batched transactions, NFTs, ENS, P2P) of the Ethereum blockchain (and EVM compatible chains such as Polygon, Binance Smart Chain, xDai) quickly and with minimal effort and cost.
-Checkout [here](https://bit.ly/3oyavge)
+Checkout [here](https://etherspot.fyi/introduction)
 
 https://try.etherspot.dev/#TopUpAccount
 
@@ -247,3 +247,6 @@ https://volta-faucet.energyweb.org/
 https://neonfaucet.org/
 
 https://discord.etherspot.io (#faucet channel) - drops 10 NEON
+
+
+# 0xoneiros Twitter : [here](https://twitter.com/0xoneiros)
